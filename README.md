@@ -6,3 +6,6 @@ the MySQL ODBC connector driver for the crystal reports is also included in the 
 
 and use the mritsa e-commerce file as the DB to the platform , save as "mritsa_eplat"
 
+The C sharp application (backend) and the e-commerce system is available in myDrive.Use the link below!
+
+"https://drive.google.com/drive/folders/1Slg3xoPsyhwpxsbu_pUcoU8mjfD9f-we?usp=share_link"
